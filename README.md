@@ -1,4 +1,4 @@
-# Lista de produtos
+# Controle de estoque
 
 Este projeto faz parte da avaliação diagnóstica da disciplina Desenvolvimento de Software para Web 1, ministrada pelo prof. Ednilson Rossi, no IFSP, Campus Araraquara.
 
